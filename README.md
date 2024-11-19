@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node js , React Native**
 
-- 👨‍💻 All of my projects are available at [https://nabinachar-6e6e1.web.app/projects](https://nabinachar-6e6e1.web.app/projects)
+- 👨‍💻 All of my projects are available at [https://thechotoprogrammer.vercel.app](https://thechotoprogrammer.vercel.app)
 
 - 💬 Ask me about **react js**
 
